@@ -1,0 +1,23 @@
+.bio-container {
+    display: flex;
+    flex: 1;
+    flex-direction: 'row';
+    max-width: 80%;
+    margin: auto;
+    padding: 40px 0px;
+}
+
+.bio-content-container {
+    flex: 2;
+    padding-inline: 2%;
+}
+
+.bio-image-container {
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+}
+
+.bio-image-container img {
+    width: 75%;
+}

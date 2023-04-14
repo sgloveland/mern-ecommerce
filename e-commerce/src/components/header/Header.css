@@ -1,0 +1,35 @@
+.header {
+    display: flex;
+    flex: 1;
+    background-color: #472E74;
+    color: white;
+    flex-direction: row;
+    align-items: center;
+}
+
+.header-text-container {
+    flex: 9;
+}
+
+.header-text-container h1 {
+    margin: 0;
+    padding: 0;
+    padding-block: 20px;
+    font-size: 24px;
+} 
+
+.header-icon-container {
+    flex: 1;
+}
+
+.header-icon {
+    font-size: 30px;
+    padding: 10px;
+    border-radius: 100px;
+    transition: .5s ease;
+}
+
+.header-icon:hover {
+    cursor: pointer;
+    background-color: #AA8A39;
+}

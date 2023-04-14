@@ -1,0 +1,107 @@
+{
+    "shoes": [
+        {
+            "id": 1,
+            "name": "FuelCell SuperComp Elite v3",
+            "brand": "New Balance",
+            "price": "$229.99",
+            "size": "8-10 M, 6-8 W",
+            "image": "/assets/new-balance.jpg",
+            "description": "Super comfortable and flexible shoes, the FuelCell SuperComp Elite v3 shoes by New Balance will have you feeling like your walking on clouds! And you could be fashionable while doing it!"
+        },
+        {
+            "id": 2,
+            "name": "Rincon 3",
+            "brand": "Hoka",
+            "price": "$125.00",
+            "size": "9-12 M, 4-8 W",
+            "image": "/assets/hoka.png",
+            "description": "These Rincon 3 shoes are absolutely perfect for any run! Sleek yet fashionable, these shoes offer the best comfort possible, allowing you to enjoy your workouts without having to deal with the aftermath!"
+        },
+        {
+            "id": 3,
+            "name": "Pizza Ultraboost X",
+            "brand": "Adidas",
+            "price": "$120.00",
+            "size": "8-11 M, 5-9 W",
+            "image": "/assets/pizza-shoes.jpg",
+            "description": "A must have for any pizza lover, these stylish shoes offer stylishness while being comfrotable. A redesign of the classic Adidas Ultraboost shoes, these are sure to start up a conversation wherever you wear them!"
+        }
+    ],
+    "shirts": [
+        {
+            "id": 4,
+            "name": "Relaxed Fit Green Tee",
+            "brand": "H&M",
+            "price": "$12.99",
+            "size": "Medium, Large",
+            "image": "/assets/greenShirt.jpg",
+            "description": "A simple design on a relaxed fitting tee. Perfect for any occasion."
+        },
+        {
+            "id": 5,
+            "name": "Regular Fit Spongebob Tee",
+            "brand": "H&M",
+            "price": "$12.99",
+            "size": "Small, Large",
+            "image": "/assets/spongeShirt.jpg",
+            "description": "A regular fitting tee with a design twist to our beloved character, Spongebob."
+        },
+        {
+            "id": 6,
+            "name": "Regular Fit B.I.G. Tee",
+            "brand": "H&M",
+            "price": "$12.99",
+            "size": "Small, Medium, Large",
+            "image": "/assets/bigShirt.jpg",
+            "description": "A regular fitting tee with a simple logo comprised of the late rap legend, The Notorious B.I.G."
+        },
+        {
+            "id": 7,
+            "name": "Relaxed Fit Blue Graphic Tee",
+            "brand": "H&M",
+            "price": "$12.99",
+            "size": "Small, Medium",
+            "image": "/assets/seedShirt.jpg",
+            "description": "A relaxed fitting tee with a simple design to match the blue hue of the tee itself. Perfect for any occasion."
+        }
+    ],
+    "pants": [
+        {
+            "id": 8,
+            "name": "Fleece Sweatpants",
+            "price": "$44.95",
+            "brand": "PacSun",
+            "description": "These sweats are designed with an elastic stretch waistline, adjustable drawstrings, side pockets, a relaxed fit, elastic cuffs, a single back pocket, and fleece fabrication.",
+            "size": "Large",
+            "image": "/assets/mens-sweats.png"
+        },
+        {
+            "id": 9,
+            "name": "By PacSun Formula Sweat Shorts",
+            "price": "$45.00",
+            "brand": "Playboy",
+            "description": "PacSun Exclusive! PacSun x Playboy defines comfy with the new Formula Sweat Shorts. This pair features an elastic stretch waistline, adjustable drawstrings, side pockets, a standard fit, a soft fleece fabrication, and the iconic bunny head logo at the left leg.",
+            "size": "Small, Medium",
+            "image": "/assets/mens-sweatshorts.png"
+        },
+        {
+            "id": 10,
+            "name": "Lightweight Low Rise '90s Pants",
+            "price": "$54.95",
+            "brand": "LA Hearts",
+            "description": "Y2K style makes a comeback in the new Lightweight Low Rise '90s Pants from PacSun. These low-rise pants have cargo side pockets and are roomy through the hip and thigh for a baggy '90s fit.",
+            "size": "Medium, Large",
+            "image": "/assets/womens-lightweight-cargo-blue.jpeg"
+        },
+        {
+            "id": 11,
+            "name": "Eco Light Blue Distressed Dad Jeans",
+            "price": "$59.95",
+            "brand": "PacSun",
+            "description": "Featuring a classic high-rise fit, these baggy jeans sit high on the waist and get updated with destruction details at the knee and a light blue wash that goes with every look. They are slightly oversized and fits slouchy and roomy through the hip and thigh with a straight leg fit.",
+            "size": "Medium",
+            "image": "/assets/womens-jeans.png"
+        }
+    ]
+}

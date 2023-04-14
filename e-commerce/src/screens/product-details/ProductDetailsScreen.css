@@ -1,0 +1,71 @@
+.details-screen {
+    flex: 1;
+}
+
+.details-header{
+    flex: 1;
+    background-color: #472E74;
+    color: white;    
+}
+
+.details-header h1{
+    margin: 0;
+    padding: 0;
+    padding-block: 20px;    
+}
+
+.details-screen-content {
+    margin-top: 2%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.details-screen-image {
+    flex: 1;
+    min-width: 250px;
+}
+
+.details-screen-image img{
+    width: 90%;
+}
+
+.details-screen-info {
+    flex: 3;
+    text-align: left;
+    min-width: 250px;
+}
+
+.details-screen-text {
+    font-size: 20px;
+    padding-inline: 5%;
+}
+
+.details-screen-form {
+    margin-block: 5%;
+    text-align: left;
+    padding-inline: 5%;
+}
+
+.details-screen-form h2{
+    color: #AA8A39;
+}
+
+.add-button {
+    display:inline-block;
+    background: #472E74;
+    color: white;
+    padding: 8px 30px;
+    border-radius: 30px;
+    transition: 0.4s ease;
+}
+
+.add-button:hover {
+    cursor: pointer;
+    background-color: #6540a8;
+}
+
+.error-text {
+    color: red;
+    margin-left: 5%;
+}

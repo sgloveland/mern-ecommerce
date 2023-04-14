@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Sean Loveland",
+        "bio": "Hello, my name is Sean Loveland. I am a fourth year Software Engineering major at UCI. I have always been interested in fashion, and this store is the embodiment of that. I hope you can enjoy the products we offer in the same way I get to enjoy bringing them to life through the use of technology",
+        "image": "/assets/sean-loveland.JPG"
+    },
+    {
+        "name": "Brianna Huynh-Tong",
+        "bio": "HELLO MY NAME IS BRIANNA :)",
+        "image": "/assets/bri.JPG"
+    },
+    {
+        "name": "Cong Khang Nguyen Le",
+        "bio": "A Vietnamese-Amercian fashion designer, Khang was surrounded by high fashion his whole life. Launching his own meanswear label in 2007, he now wishes to share his love for fashion through Team 25 Store along with Sean and Brianna.",
+        "image": "/assets/khang.jpg"
+    }
+]
